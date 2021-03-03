@@ -4,10 +4,10 @@ Google Cloud Kubeflow
 
 steps to implement train ml pipeline using GCP kubeflow. 
 
-1.login into gcp
+1.Login into gcp
 
 
-2.navigate to follwing to create new notebook instances
+2.Navigate to follwing to create new notebook instances
     ai platform--->pipelines--->new instances
     
    
@@ -16,9 +16,9 @@ steps to implement train ml pipeline using GCP kubeflow.
     open jupyterlab to access the notebook.
     
     
-4.once we access the instance of notebook...got to terminal and clone the git repository to access the  codes related to the ml-training pipeline.
+4.Once we access the instance of notebook...got to terminal and clone the git repository to access the  codes related to the ml-training pipeline.
 
-5.change docker credential before starting the setup.
+5.Change docker credential before starting the setup.
   make the changes according to instructions given in standard template files form git hub repository.
 
     main components on creating kubeflow pipline
