@@ -11,7 +11,7 @@ steps to implement train ml pipeline using GCP kubeflow.
     ai platform--->pipelines--->new instances
     
    
-3.select tensorflow 2.4 notebook and create new  instance of notebook.
+3.Select tensorflow 2.4 notebook and create new  instance of notebook.
     wait till the instance of notebook is created
     open jupyterlab to access the notebook.
     
